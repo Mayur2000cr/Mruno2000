@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+
+body
+{
+	font-family: arial;
+	font-size: 15px;
+	line-height: 1.2cm;
+	background: #f4f4f4;
+}
+
+li
+{
+	list-style: none;	
+	line-height:30px;
+}
+
+.container
+{
+	width: 80%;
+	margin: 20px auto;
+	overflow: auto;	
+}
+
+.pull-left
+{
+	float:left;
+}
+
+.pull-right
+{
+	float:right;
+}
+
+header
+{
+	background: #545454;
+	color: #ffffff;
+	padding: 5px 10px;
+	overflow: auto;
+	font-size: 16px;
+}
